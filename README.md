@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a third year undergraduate at NIT Silchar
+Currently navigating the rollercoaster ride of engineering, fueled by caffeine and curiosity! ☕💻
+Exploring the vast world of GitHub, where my code sometimes works… and sometimes just vibes. 😆
 
 
 ## 🌐 Socials:
